@@ -1,239 +1,74 @@
-<!DOCTYPE html>
+<!-- Meta: This is the template for a "Wordpress Blog Post Newsletter Template
+    that does not accept table tags."-->
 
-<body>
-
-  <table>
-    <!-- Header section -->
-    <thead>
-        <tr>
-            <th class="font-sans">
-                <h1>US Pirate Party Monthly Newsletter</h1>
-                <h1>Month Year</h1>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <!-- General information and news section -->
-        <tr class="centered-row">
-            <td class="font-sans">
-                <h2> General Information </h2>
-            </td>
-        </tr>
-        <tr class="justified-row">
-            <td class="font-serif">
-                <p>
-                    Check out our Platform, Policies, and Core Values for the National level 
-                    <a href="https://uspirates.org/platform/" target="_blank"> here.</a>
-                </p>
-                <p>
-                    We are a collection of state parties, state parties are free to advocate
-                    for issues or abstain from certain stances at the state level, if they deem it not to be
-                    useful, viable, or agreeable.  However, full transparency on these differences, and any
-                    additional stances should be clearly stated on their own platforms.  We will not
-                    enforce policy approaches people disagree on, however it is expected for states to uphold
-                    core values of democratic values, privacy, and transparency, and to do so in actions and
-                    not just words.
-                </p>
-            </td>
-        </tr>
-
-        <!-- Calendar section -->
-        <tr class="centered-row">
-            <td class="font-sans">
-                <h2> Calendar </h2>
-            </td>
-        </tr>
-        <tr class="justified-row">
-            <td>
-                <!-- Add your calendar content here (copy and paste the corresponding month from calendar_templates folder) -->
-            </td>
-        </tr>        
-        <!-- IT Committee section -->
-        <tr class="centered-row">
-          <td class="font-sans">
-              <h2> IT Committee </h2>
-          </td>
-      </tr>
-      <tr class="justified-row">
-          <td>
-              <table>
-                  <!-- About section -->
-                  <tr>
-                      <td>
-                          <h3>About</h3>
-                          <!-- Add content specific to the IT Committee's "About" section here -->
-                      </td>
-                  </tr>
-                  <!-- Planned Work section -->
-                  <tr>
-                      <td>
-                          <h3>Planned Work</h3>
-                          <!-- Add content specific to the IT Committee's "Planned Work" section here -->
-                      </td>
-                  </tr>
-                  <!-- Work Completed last Month section -->
-                  <tr>
-                      <td>
-                          <h3>Work Completed last Month</h3>
-                          <!-- Add content specific to the IT Committee's "Work Completed last Month" section here -->
-                      </td>
-                  </tr>
-              </table>
-          </td>
-      </tr>
-      <!-- Platform Committee section -->
-      <tr class="centered-row">
-        <td class="font-sans">
-            <h2> Platform Committee </h2>
-        </td>
-    </tr>
-    <tr class="justified-row">
-        <td>
-            <table>
-                <!-- About section -->
-                <tr>
-                    <td>
-                        <h3>About</h3>
-                    </td>
-                </tr>
-                <!-- Planned Work section -->
-                <tr>
-                    <td>
-                        <h3>Planned Topics</h3>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <h3>Topics & Work last Month</h3>
-                    </td>
-                </tr>
-                <tr>
-                  <td>
-                      <h3>Long Term Implementation Analysis Projects</h3>
-                  </td>
-              </tr>
-              <tr>
-                <td>
-                    <h3>High Level Policy Planks in Progress</h3>
-                </td>
-            </tr>
-            </table>
-        </td>
-    </tr>
-    <!-- Platform Committee section -->
-    <tr class="centered-row">
-      <td class="font-sans">
-          <h2> Press Committee </h2>
-      </td>
-  </tr>
-  <tr class="justified-row">
-      <td>
-          <table>
-              <tr>
-                  <td>
-                      <h3>About</h3>
-                  </td>
-              </tr>
-              <tr>
-                  <td>
-                      <h3>Planned Work</h3>
-                  </td>
-              </tr>
-              <tr>
-                  <td>
-                      <h3>Work Completed last Month</h3>
-                  </td>
-              </tr>
-          </table>
-      </td>
-  </tr>
-  <!-- Outreach Committee section -->
-  <tr class="centered-row">
-    <td class="font-sans">
-        <h2> Outreach Committee </h2>
-    </td>
-</tr>
-<tr class="justified-row">
-    <td>
-        <table>
-            <tr>
-                <td>
-                    <h3>About</h3>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <h3>Planned Topics</h3>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <h3>Topics &  Discussed last Month</h3>
-                </td>
-            </tr>
-           
-        </table>
-    </td>
-</tr>
-
-<!-- Join Us -->
-<tr class="centered-row">
-    <td class="font-sans">
-        <h2> Join the Voyage to save Democracy! </h2>
-    </td>
-</tr>
-<tr class="justified-row">
-    <td class="font-serif">
+<!-- Header section -->
+<h1>US Pirate Party Monthly Newsletter</h1>
+<h1>October 2023</h1>
+<!-- General information and news section -->
+<h2> General Information </h2>
+    <p>
+    Check out our Platform, Policies, and Core Values for the National level 
+    <a href="https://uspirates.org/platform/" target="_blank"> here.</a>
+    </p>
+    
+    <p>
+        We are a collection of state parties, state parties are free to advocate
+        for issues or abstain from certain stances at the state level, if they deem it not to be
+        useful, viable, or agreeable.  However, full transparency on these differences, and any
+        additional stances should be clearly stated on their own platforms.  We will not
+        enforce policy approaches people disagree on, however it is expected for states to uphold
+        core values of democratic values, privacy, and transparency, and to do so in actions and
+        not just words.
+    </p>
+<!-- Table of Contents -->
+    <p>
+        Events from September<br />
+        Happenings in Committees<br />
+        How to Get Involved<br />
+        Events for October
+    </p>
+<!-- Events from September -->
+<!-- Happenings in Committees -->      
+<!-- IT Committee section -->
+    <h2> IT Committee </h2>
+<!-- About section -->
+    <h3>About</h3>
+<!-- Add content specific to the IT Committee's "About" section here -->
+<!-- Planned Work section -->
+<h3>Planned Work</h3>
+<!-- Add content specific to the IT Committee's "Planned Work" section here -->
+<!-- Work Completed last Month section -->
+<h3>Work Completed last Month</h3>
+<!-- Add content specific to the IT Committee's "Work Completed last Month" section here -->
+<!-- Platform Committee section -->
+<h2> Platform Committee </h2>
+<!-- About section -->
+<h3>About</h3>
+<!-- Planned Work section -->
+<h3>Planned Topics</h3>
+<h3>Topics & Work last Month</h3>
+<h3>Long Term Implementation Analysis Projects</h3>
+<h3>High Level Policy Planks in Progress</h3>
+<!-- Platform Committee section -->
+<h2> Press Committee </h2>
+<h3>About</h3>
+<h3>Planned Work</h3>
+<h3>Work Completed last Month</h3>
+<!-- Outreach Committee section -->
+<h2> Outreach Committee </h2>
+<h3>About</h3>
+<h3>Planned Topics</h3>
+<h3>Topics &  Discussed last Month</h3>
+<!-- Action Items Committee section -->
+<!-- How to Get Involved -->
+    <h2>No Safe Harbor for the Enemies of Liberty</h2>
       <p>
         We are on a journey to save our Democracy, as a purely volunteer organization we are task-oriented
         and depend on willing volunteers to put together what needs to be done, do it, and track the process
         of doing it so we can all help one another.  
       </p>
-      <p>
-        Anyone with a specialized skill-set or who works in any particular industry, we welcome your input and help
-        in regards to your specialty, and would encourage you to form a professional group at the National level to 
-        collaborate on putting together any issues regarding your professions or industries yourselves.  There are a
-        variety of professions with issues and corruption that can be addressed through policy, and we would like to build
-        a backlog of issues, which we can hopefully leverage to make an interdisciplinary, strategic, and democratic approach
-        for resolving the many issues we face.
-      </p>
-      <p>
-        In regards to friends who simply want community, and love freedom, privacy, Democracy, and believe this extends to
-        all people, we welcome you as well.  Maybe hanging around you will find something you are passionate about, or at
-        least you can say you hung out with Pirates once.
-      </p>
-      <p>
-        As Pirates, we do not mind if you only help out when you can or when you feel like it.  Task-oriented strategies
-        are ideal for pure volunteer organizations like ours, people have lives to live, and we try not to commit to
-        events without volunteers who choose to run it.  Work on what you feel is right to work on.
-      </p>
-      <p>
-        We are a small organization, and you cannot expect professionalism from us, but what you can expect is mostly honest
-        people, trying to make things better.  Strategies leveraging open source and fault-resistant strategies, using
-        open source approaches and licensing of resources to ensure even if we are taken over forcefully, people will be able
-        to keep on going where we left off.
-      </p>
-      <p>
-          Our strategies and actions can and should reflect our values at every step we take, that we do not care about leadership, and 
-          we do not need 'leadership' to the extent other parties do.  Leadership often simply means to lead by example,
-          this is something that anyone can do within the means of their own capacity and what they know.
-      </p>
-      <p>
-          We do not adhere to excessive heirarchies as other organizations do, and you should not find people preaching
-          that we are perfect, or that Pirates can do no wrong.  Mistakes, corruption, takeovers, deceit, if we are being
-          honest all of these things can certainly happen anywhere, much less in a political space, and even in a third party.
-          People gather in organizations for all kinds of reasons, and all we can do is our best.  Please simply use your
-          best judgement, review resources available both from Pirates and other sources, be well informed, do and promote
-          the things you do understand and believe in, and let others do so for the things they believe in.
-      </p>
-      <p>
-          
-      </p>
-    </td>
-</tr>
-    </tbody>
-</table>
-
+<!-- Events for October -->
+<!-- Footer section -->
     <a href="www.uspirates.org" target="_blank">USPirates.org</a> |
     <a href="https://discord.com/invite/GCYUKvNHMB" target="_blank">Discord</a> |
     <a href="https://www.youtube.com/@unitedstatespirateparty7696" target="_blank">Youtube</a> |
