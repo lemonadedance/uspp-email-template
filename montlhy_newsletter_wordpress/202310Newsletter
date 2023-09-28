@@ -33,13 +33,14 @@
     <h2> IT Committee </h2>
 <!-- About section -->
     <h3>About</h3>
-<!-- Add content specific to the IT Committee's "About" section here -->
-<!-- Planned Work section -->
-<h3>Planned Work</h3>
-<!-- Add content specific to the IT Committee's "Planned Work" section here -->
-<!-- Work Completed last Month section -->
-<h3>Work Completed last Month</h3>
-<!-- Add content specific to the IT Committee's "Work Completed last Month" section here -->
+<p>The IT Committee is a committee of the PNC and works on all related IT and development projects for the United
+    States Pirate Party.
+</p>
+<p>
+    We need the help of many to build the tools we need to help Pirates self organize. Got expertise in system
+    admin, deploying and maintaining open source software, coding, writing how-to docs or herding cats?
+    Join our weekly meetings and make a Pirate world possible!
+</p>
 <!-- Platform Committee section -->
 <h2> Platform Committee </h2>
 <!-- About section -->
@@ -94,6 +95,7 @@
 </ul>
 </p>
 <!-- Events for October -->
+<p>October 3, </p>
 <!-- Footer section -->
     <a href="www.uspirates.org" target="_blank">USPirates.org</a> |
     <a href="https://discord.com/invite/GCYUKvNHMB" target="_blank">Discord</a> |
